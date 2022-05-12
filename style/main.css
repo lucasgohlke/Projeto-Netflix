@@ -34,6 +34,7 @@ header nav a{
     text-decoration: none; /* remove a linha embaixo dos links*/
     color: rgb(214, 211, 211);
     margin-right: 10px;
+    margin-left: 10px;
 }
 
 /* Declarando cor ao passar o mouse por cima*/
@@ -62,6 +63,11 @@ header nav a:hover{
     margin-top: 15%;
     font-size: 70px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.carrosel-filmes .sub-titulo{
+    margin: 15px;
+    font-size: 30px;
 }
 
 .botaoplay{
